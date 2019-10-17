@@ -64,10 +64,9 @@ Please check ``test.py`` for testing.
 ![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/00001823.jpg)
 
 
-## Models
+## ToDo
 
-Pretrained Model: RetinaFace-R50 ([baidu cloud](https://pan.baidu.com/s/1C6nKq122gJxRhb37vK0_LQ) or [dropbox](https://www.dropbox.com/s/53ftnlarhyrpkg2/retinaface-R50.zip?dl=0)) is a medium size model with ResNet50 backbone.
-It can output face bounding boxes and five facial landmarks in a single forward pass.
+释放训练好的模型
 
 ## References
 
