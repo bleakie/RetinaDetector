@@ -35,19 +35,14 @@ Please check ``train.py`` for training.
 
 为了获得更好的训练效果，可针对性的修改一些参数，如下：
 
-``
+```Shell
 config.TRAIN.MIN_BOX_SIZE = 5 #最小bbox
-
 config.FACE_LANDMARK = False #使用landmark
-
 config.USE_BLUR = False
-
 config.BBOX_MASK_THRESH = 0
-
 config.COLOR_MODE = 2 #增强
-
 config.COLOR_JITTERING = 0.125
-``
+```
 
 2. Download pretrained models and put them into ``model/``. 
 
