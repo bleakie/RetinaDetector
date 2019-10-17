@@ -57,6 +57,13 @@ Before training, you can check the ``resnet`` network configuration (e.g. pretra
 
 Please check ``test.py`` for testing.
 
+## Result
+
+![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/00001673.jpg)
+
+![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/00001823.jpg)
+
+
 ## Models
 
 Pretrained Model: RetinaFace-R50 ([baidu cloud](https://pan.baidu.com/s/1C6nKq122gJxRhb37vK0_LQ) or [dropbox](https://www.dropbox.com/s/53ftnlarhyrpkg2/retinaface-R50.zip?dl=0)) is a medium size model with ResNet50 backbone.
