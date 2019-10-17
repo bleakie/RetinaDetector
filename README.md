@@ -37,10 +37,15 @@ Please check ``train.py`` for training.
 
 ``
 config.TRAIN.MIN_BOX_SIZE = 5 #最小bbox
+
 config.FACE_LANDMARK = False #使用landmark
+
 config.USE_BLUR = False
+
 config.BBOX_MASK_THRESH = 0
+
 config.COLOR_MODE = 2 #增强
+
 config.COLOR_JITTERING = 0.125
 ``
 
