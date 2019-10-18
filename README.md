@@ -59,8 +59,9 @@ Please check ``test.py`` for testing.
 
 ## Result
 
+1. 缺陷检测
 ![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/00001673.jpg)
-
+2. 人脸检测+人脸对齐
 ![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/0000.png)
 
 
