@@ -61,7 +61,7 @@ Please check ``test.py`` for testing.
 
 ![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/00001673.jpg)
 
-![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/00001823.jpg)
+![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/0000.png)
 
 
 ## ToDo
