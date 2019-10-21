@@ -67,10 +67,13 @@ Please check ``test.py`` for testing.
 
 ![MASK1](https://github.com/bleakie/RetinaDetection/blob/master/images/0000.png)
 
+## Models
+
+人脸检测模型，比原版误检更低，角度较大和模糊超过0.6的face会自动忽略，更适合人脸识别的应用：click [here](http://www.multcloud.com/share/5079e926-283b-4833-a216-b3de42eea0fe).
 
 ## ToDo
 
-释放训练好的模型
+释放训练好的缺陷检测模型
 
 ## References
 
