@@ -2,7 +2,7 @@
 
 ## Introduction
 
-RetinaDetection是基于RetinaFace修改的检测方法，原论文is a practical single-stage [SOTA](http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html) face detector which is initially described in [arXiv technical report](https://arxiv.org/abs/1905.00641)
+RetinaDetector是基于RetinaFace修改的检测方法，原论文is a practical single-stage [SOTA](http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html) face detector which is initially described in [arXiv technical report](https://arxiv.org/abs/1905.00641)
 
 ## Data
 
