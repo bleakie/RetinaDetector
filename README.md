@@ -73,7 +73,7 @@ Please check ``test.py`` for testing.
 
 ## ToDo
 
-释放训练好的缺陷检测模型
+由于缺陷检测数据涉及私密性，缺陷检测的模型暂时不会释放
 
 ## References
 
