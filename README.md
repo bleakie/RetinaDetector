@@ -44,6 +44,7 @@ config.COLOR_MODE = 2 #增强
 config.COLOR_JITTERING = 0.125
 ```
 
+无效人脸的过滤，如下：
 ```Shell
 if (x2 - x1) < config.TRAIN.MIN_BOX_SIZE or (y2 - y1) < config.TRAIN.MIN_BOX_SIZE:
    continue
